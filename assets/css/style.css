@@ -4,3 +4,12 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+body header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+body header .headerTitle{
+    width: 30%;
+    padding: 20px 0px;
+}
