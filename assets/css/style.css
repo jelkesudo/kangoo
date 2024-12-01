@@ -13,3 +13,13 @@ body header .headerTitle{
     width: 30%;
     padding: 20px 0px;
 }
+body main{
+    widht:80%
+    display flex;
+    justify-content: center;
+}
+body main ul{
+    widht:80%
+    display flex;
+    justify-content: center;
+}
