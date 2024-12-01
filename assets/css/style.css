@@ -35,6 +35,8 @@ body main ul{
 }
 body main ul li{
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
 .check{
     transform: rotate(45deg);
