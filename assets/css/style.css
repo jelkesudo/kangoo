@@ -38,12 +38,15 @@ body main ul li{
     display: flex;
     justify-content: center;
 }
+body main ul li p{
+    margin-top: 3px;
+}
 .check{
     transform: rotate(45deg);
     color: green;
     font-weight: bold;
     margin-right: 5px;
-    padding: 20px;
-    border: green;
+    padding: 3px;
+    border: 1px solid green;
     border-radius: 50%;
 }
