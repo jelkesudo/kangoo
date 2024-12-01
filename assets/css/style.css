@@ -43,4 +43,7 @@ body main ul li{
     color: green;
     font-weight: bold;
     margin-right: 5px;
+    padding: 20px;
+    border: green;
+    border-radius: 50%;
 }
