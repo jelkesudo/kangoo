@@ -17,12 +17,12 @@ body header .headerTitle{
     padding: 20px 0px;
 }
 body main{
-    widht:80%
-    display flex;
+    width: 80%;
+    display: flex;
     justify-content: center;
 }
 body main ul{
-    widht:80%
-    display flex;
+    width: 80%; 
+    display: flex;
     justify-content: center;
 }
