@@ -27,7 +27,9 @@ body main{
 }
 body main ul{
     width: 100%; 
-
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .check{
     transform: rotate(45deg);
