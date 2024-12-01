@@ -41,12 +41,14 @@ body main ul li{
 body main ul li p{
     margin-top: 3px;
 }
-.check{
+.checkCircle{
+    border: 1px solid green;
+    padding: 3px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.checkCircle .check{
     transform: rotate(45deg);
     color: green;
     font-weight: bold;
-    margin-right: 5px;
-    padding: 3px;
-    border: 1px solid green;
-    border-radius: 50%;
 }
