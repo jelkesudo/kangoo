@@ -42,4 +42,5 @@ body main ul li{
     transform: rotate(45deg);
     color: green;
     font-weight: bold;
+    margin-right: 5px;
 }
